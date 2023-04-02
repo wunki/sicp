@@ -1,0 +1,5 @@
+* Structure and Interpretation of Computer Programs
+
+These are the exercises for the Structure and Interpretatian of Computer Programs (SICP) book.
+
+The exercises are done by using Racket, which supplies a special language pack =#lang sicp=, giving you the same Scheme implementation as in the book.
